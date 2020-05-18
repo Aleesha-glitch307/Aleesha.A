@@ -1,0 +1,108 @@
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    
+    
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;  
+    margin-top: 0px;
+    margin:0px auto 0 auto ;
+    color: #66bfbf;
+    font-weight: lighter;
+    padding-top: 100px;
+
+}
+
+h2 {font-family: 'Merriweather', serif; 
+    color: #66bfbf;
+
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color: #11999e;
+}
+                         
+a{
+    color: #11999e;
+}
+
+hr{
+    width: 30%;
+    
+}   
+
+
+
+ /**********************************CLASS SELECTORS**********************************/
+
+ .middle-container{
+   padding-top: 50px;  
+ }
+
+ .bottom-container{
+     background-color: #ffffff;
+   
+ }
+
+ .top-contianer
+{ background-color:#eaf6f6; 
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.Top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+   
+}
+
+.Beach-pic{
+    height:206px ;
+    width: 245px;
+    border-radius: 0%;
+}
+
+.Computer-pic{
+    height: auto;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.Under-name{
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 4px;
+}
+
+.Avocado{
+    height: auto;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+    
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+
+   
+}
+
+
+
